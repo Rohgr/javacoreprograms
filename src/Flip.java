@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Flip {
 
     public static void main(String[] args) {
-        System.out.println("Welcome to flip coin program");
+        System.out.println("Wel to flip coin program");
         Scanner sc = new Scanner(System.in);
         System.out.println("enter how many times to flip coin");
         int a = sc.nextInt();
